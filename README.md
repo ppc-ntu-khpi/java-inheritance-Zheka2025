@@ -1,6 +1,6 @@
 # Практична робота "Реалізація успадкування"
 
-Для прикладу я змоделював **звичайну пантеру **😉
+Для прикладу я змоделював **звичайну пантеру**😉
 
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
